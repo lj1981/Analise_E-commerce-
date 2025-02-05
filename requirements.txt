@@ -1,0 +1,8 @@
+pandas
+matplotlib.pyplot
+seaborn
+numpy
+datetime
+openpyxl
+sklearn
+os
