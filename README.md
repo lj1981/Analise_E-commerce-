@@ -46,3 +46,5 @@ Segmentem os clientes em grupos distintos com base em características numérica
 Gerem análises exploratórias detalhadas, incluindo visualizações gráficas e estatísticas descritivas.
 Produzam relatórios que resumem as principais descobertas da análise.
 Ao utilizar este código, os usuários podem obter insights valiosos sobre diferentes segmentos de clientes, auxiliando na tomada de decisões estratégicas, como direcionamento de campanhas de marketing e desenvolvimento de produtos personalizados.
+
+# Seu resultado e totalmente ficticio e nem um dos dados e real .
